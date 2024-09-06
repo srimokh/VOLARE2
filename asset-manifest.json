@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VOLARE2/static/css/main.baf9ebec.css",
-    "main.js": "/VOLARE2/static/js/main.3f2e6749.js",
+    "main.js": "/VOLARE2/static/js/main.878368e2.js",
     "static/js/453.124d4c03.chunk.js": "/VOLARE2/static/js/453.124d4c03.chunk.js",
     "index.html": "/VOLARE2/index.html",
     "main.baf9ebec.css.map": "/VOLARE2/static/css/main.baf9ebec.css.map",
-    "main.3f2e6749.js.map": "/VOLARE2/static/js/main.3f2e6749.js.map",
+    "main.878368e2.js.map": "/VOLARE2/static/js/main.878368e2.js.map",
     "453.124d4c03.chunk.js.map": "/VOLARE2/static/js/453.124d4c03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.baf9ebec.css",
-    "static/js/main.3f2e6749.js"
+    "static/js/main.878368e2.js"
   ]
 }
