@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VOLARE2/static/css/main.baf9ebec.css",
+    "main.js": "/VOLARE2/static/js/main.5579561e.js",
+    "static/js/453.124d4c03.chunk.js": "/VOLARE2/static/js/453.124d4c03.chunk.js",
+    "index.html": "/VOLARE2/index.html",
+    "main.baf9ebec.css.map": "/VOLARE2/static/css/main.baf9ebec.css.map",
+    "main.5579561e.js.map": "/VOLARE2/static/js/main.5579561e.js.map",
+    "453.124d4c03.chunk.js.map": "/VOLARE2/static/js/453.124d4c03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baf9ebec.css",
+    "static/js/main.5579561e.js"
+  ]
+}
